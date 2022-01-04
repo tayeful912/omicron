@@ -60,9 +60,61 @@ body{
     
 }
 
+.section-ex{
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+    
+}
+
 .flex2{
     display: flex;
-    
-   
-
 }
+
+.half-width-ex{
+
+    box-shadow: 10px 10px 40px rgba(28, 120, 196, 0.986);
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 1%;
+    border-radius: 10px;
+    border-color: greenyellow;
+}
+
+#box-shadow{
+    border-left: 5px solid;
+    border-image: linear-gredient(red,purple);
+    border-image-slice: 0;
+    
+    
+}
+#box-shadow1{
+    border-left: 5px solid;
+    
+    border-image-slice: 0;
+    border-color:red;
+    
+    
+}
+#box-shadow2{
+    border-left: 5px solid;
+    border-color:red;
+    border-image-slice: 0;
+    
+    
+}
+#box-shadow3{
+    border-left: 5px solid;
+    border-image: linear-gredient(red,rgb(218, 199, 218));
+    border-image-slice: 10% 30%;
+    
+    
+}
+
+footer p{
+    text-align: center;
+    padding: 30px;
+}
+
