@@ -51,3 +51,11 @@ section{
     background-repeat: no-repeat;
 
 }
+
+.section-2{
+
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
