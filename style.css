@@ -10,6 +10,7 @@ body{
 
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 
 .half-width{
@@ -33,6 +34,16 @@ section{
     background-image: linear-gradient(red,tomato);
    
 
+}
+
+.link-button2{
+
+    background-image: linear-gradient(rgba(9, 126, 221, 0.795),rgb(86, 123, 190));
+    padding: 10px 40px;
+    color: blanchedalmond;
+    border-radius: 10px;
+    font-weight: 400;
+    text-decoration: none;
 }
 
 .top-banner{
