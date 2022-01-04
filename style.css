@@ -8,7 +8,7 @@ body{
     color: orangered;
 }
 
-section{
+.flex{
     display: flex;
     margin-bottom: 100px;
 }
